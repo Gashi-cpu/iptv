@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:6,21 HD
+http://srdjan:srdjan@176.31.233.230:81/ch1
+#EXTINF:7,21 HD Plus
+http://srdjan:srdjan@176.31.233.230:81/ch2
+#EXTINF:8,21 HD Popullore
+http://srdjan:srdjan@176.31.233.230:81/ch3
+#EXTINF:9,Klan Kosova
+http://srdjan:srdjan@176.31.233.230:81/ch4
+#EXTINF:10,Tring World
+http://srdjan:srdjan@176.31.233.230:81/ch5
+#EXTINF:11,Tring Shqip
+http://srdjan:srdjan@176.31.233.230:81/ch6
+#EXTINF:12,Tring Max
+http://srdjan:srdjan@176.31.233.230:81/ch7
+#EXTINF:13,Tring Life
+http://srdjan:srdjan@176.31.233.230:81/ch8
+#EXTINF:14,Tring Planet
+http://srdjan:srdjan@176.31.233.230:81/ch9
+#EXTINF:15,Tring Tring
+http://srdjan:srdjan@176.31.233.230:81/ch10
+#EXTINF:16,21 HD Junior
+http://srdjan:srdjan@176.31.233.230:81/ch11
+#EXTINF:17,TV Mitrovica
+http://srdjan:srdjan@176.31.233.230:81/ch12
+#EXTINF:18,Qesh e Ngjesh
+http://srdjan:srdjan@176.31.233.230:81/ch13
+#EXTINF:19,Polifolk TV HD
+http://srdjan:srdjan@176.31.233.230:81/ch14
+#EXTINF:20,Tring 3 Plus
+http://srdjan:srdjan@176.31.233.230:81/ch15
+#EXTINF:21,1 First
+http://srdjan:srdjan@176.31.233.230:81/ch16
+#EXTINF:22,Top Channel HD
+http://srdjan:srdjan@176.31.233.230:81/ch17
+#EXTINF:23,Jolly HD
+http://srdjan:srdjan@176.31.233.230:81/ch18
+#EXTINF:24,BBF
+http://srdjan:srdjan@176.31.233.230:81/ch19
+#EXTINF:25,Bunga Bunga XXX
+http://srdjan:srdjan@176.31.233.230:81/ch20
+#EXTINF:26,Tirana TV
+http://srdjan:srdjan@176.31.233.230:81/ch21
+#EXTINF:27,Shqip HOPTV HD
+http://srdjan:srdjan@176.31.233.230:81/ch22
+#EXTINF:28,Elrodi TV
+http://srdjan:srdjan@176.31.233.230:81/ch23
+#EXTINF:29,Tring History
+http://srdjan:srdjan@176.31.233.230:81/ch24
+#EXTINF:30,Film Nje HD
+http://srdjan:srdjan@176.31.233.230:81/zemo5
+#EXTINF:31,Film Dy HD
+http://srdjan:srdjan@176.31.233.230:81/zemo6
+#EXTINF:32,Film Triller
+http://srdjan:srdjan@176.31.233.230:81/zemo7
+#EXTINF:33,Film Plus
+http://srdjan:srdjan@176.31.233.230:81/zemo8
+#EXTINF:34,National Geographic Channel
+http://srdjan:srdjan@176.31.233.230:81/zemo9
+#EXTINF:35,Top Channel
+http://srdjan:srdjan@176.31.233.230:81/zemo10
+#EXTINF:36,Bang Bang
+http://srdjan:srdjan@176.31.233.230:81/zemo11
+#EXTINF:37,Film Komedi
+http://srdjan:srdjan@176.31.233.230:81/zemo12
+#EXTINF:38,Film Aksion
+http://srdjan:srdjan@176.31.233.230:81/zemo13
+#EXTINF:39,Explorer shkence
+http://srdjan:srdjan@176.31.233.230:81/zemo14
+#EXTINF:40,STV
+http://srdjan:srdjan@176.31.233.230:81/stvonline
+#EXTINF:41,Folk
+http://srdjan:srdjan@176.31.233.230:81/stvfolk
+#EXTINF:42,Cufo
+http://srdjan:srdjan@176.31.233.230:81/cufo
+#EXTINF:43,Alsat M
+http://srdjan:srdjan@176.31.233.230:81/alsatm
+#EXTINF:44,TV Klan Kosova
+http://srdjan:srdjan@176.31.233.230:81/tvklan
+#EXTINF:45,KTV Kohavision
+http://srdjan:srdjan@176.31.233.230:81/ktvkoha
+#EXTINF:46,Fox Life
+http://srdjan:srdjan@176.31.233.230:81/topchannel
+#EXTINF:47,QS
+http://srdjan:srdjan@176.31.233.230:81/qs
+#EXTINF:48,Fox Crime
+http://srdjan:srdjan@176.31.233.230:81/qsserial
+#EXTINF:49,RTK 1
+http://srdjan:srdjan@176.31.233.230:81/rtk1
+#EXTINF:50,TV SH
+http://srdjan:srdjan@176.31.233.230:81/tvsh
+#EXTINF:51,Folkorit
+http://srdjan:srdjan@176.31.233.230:81/stvfolk2
+#EXTINF:52,Explorer Natyra
+http://srdjan:srdjan@176.31.233.230:81/stvonline2
+#EXTINF:53,Film Hits
+http://srdjan:srdjan@176.31.233.230:81/filmhits
+#EXTINF:54,Film Drama
+http://srdjan:srdjan@176.31.233.230:81/filmdrama
+#EXTINF:55,KTV Kohavision 2
+http://srdjan:srdjan@176.31.233.230:81/ktv
+#EXTINF:56,Tring Super
+http://srdjan:srdjan@176.31.233.230:81/tringsuper
+#EXTINF:57,Folk Plus
+http://srdjan:srdjan@176.31.233.230:81/folkplus
+#EXTINF:58,Era
+http://srdjan:srdjan@176.31.233.230:81/era
+#EXTINF:59,Vizion Plus
+http://srdjan:srdjan@176.31.233.230:81/visionplus
+#EXTINF:60,ABC
+http://srdjan:srdjan@176.31.233.230:81/digigold
+#EXTINF:61,Explorer Histori
+http://srdjan:srdjan@176.31.233.230:81/plushd
+#EXTINF:62,Agon Channel
+http://srdjan:srdjan@176.31.233.230:81/agon
+#EXTINF:63,Qesh e Kno
+http://srdjan:srdjan@176.31.233.230:81/qeshnknor
+#EXTINF:64,Malesia MTV
+http://srdjan:srdjan@176.31.233.230:81/malesiamtv
+#EXTINF:65,TV Kopliku
+http://srdjan:srdjan@176.31.233.230:81/tvkopliku
